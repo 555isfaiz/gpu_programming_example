@@ -2,3 +2,4 @@
 *.dSYM
 code_exam
 *.pdf
+.clangd
